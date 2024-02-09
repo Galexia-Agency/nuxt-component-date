@@ -24,7 +24,7 @@ Vue.component('GalexiaDate', Galexia_NuxtComponent_Date)
 // nuxt.config.js
 ...
 plugins: [
-  '~plugins/galexia/components/date.js'
+  '~plugins/galexia/nuxt-components/date.js'
 ],
 ...
 ```
